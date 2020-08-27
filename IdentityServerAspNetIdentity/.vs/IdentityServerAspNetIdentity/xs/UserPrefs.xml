@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{25555030-9791-4FE6-9223-83A50F8B5561}|SelfHost">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Config.cs">
+    <Files>
+      <File FileName="Config.cs" Line="70" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdentityServerAspNetIdentity" expanded="True">
+            <Node name="IdentityServerAspNetIdentity" expanded="True">
+              <Node name="Config.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IdentityServerAspNetIdentity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
