@@ -1,2 +1,0 @@
-# bulletIN
-Bug tracking project
